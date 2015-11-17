@@ -1,0 +1,31 @@
+html, body {
+    margin: 0;
+    padding: 0;
+}
+
+canvas {
+    display: block;
+    margin: 0;
+    padding: 0;
+}
+
+#footer {
+    background-color: rgba(0, 0, 0, 0.5);
+    bottom: 0;
+    color: white;
+    font-family: "Helvetica Neue", HelveticaNeue, Helvetica, Arial, sans-serif;
+    font-size: 12px;
+    left: 0;
+    position: fixed;
+    right: 0;
+}
+
+#footer p {
+    padding: 10px;
+    margin: 0;
+}
+
+#footer a {
+    color: #0088ff;
+    text-decoration: none;
+}
